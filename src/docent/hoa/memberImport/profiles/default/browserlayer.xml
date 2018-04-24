@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layers>
+  <layer
+      name="docent.hoa.memberImport"
+      interface="docent.hoa.memberImport.interfaces.IDocentHoaMemberimportLayer"
+      />
+</layers>
